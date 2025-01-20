@@ -1,0 +1,60 @@
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\fib.exe
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\fib.deps.json
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\fib.runtimeconfig.json
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\fib.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\fib.pdb
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\System.CommandLine.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\cs\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\de\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\es\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\fr\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\it\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\ja\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\ko\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\pl\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\ru\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\tr\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\bin\Debug\net9.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\obj\Debug\net9.0\fib.csproj.AssemblyReference.cache
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\obj\Debug\net9.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\obj\Debug\net9.0\fib.AssemblyInfoInputs.cache
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\obj\Debug\net9.0\fib.AssemblyInfo.cs
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\obj\Debug\net9.0\fib.csproj.CoreCompileInputs.cache
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\obj\Debug\net9.0\fib.csproj.Up2Date
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\obj\Debug\net9.0\fib.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\obj\Debug\net9.0\refint\fib.dll
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\obj\Debug\net9.0\fib.pdb
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\obj\Debug\net9.0\fib.genruntimeconfig.cache
+C:\Users\ME\Desktop\בלי תכנות\visual studio\tryFib\Try\Try\obj\Debug\net9.0\ref\fib.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\fib.exe
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\fib.deps.json
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\fib.runtimeconfig.json
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\fib.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\fib.pdb
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\System.CommandLine.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\cs\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\de\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\es\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\fr\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\it\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\ja\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\ko\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\pl\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\ru\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\tr\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\bin\Debug\net9.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\obj\Debug\net9.0\fib.csproj.AssemblyReference.cache
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\obj\Debug\net9.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\obj\Debug\net9.0\fib.AssemblyInfoInputs.cache
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\obj\Debug\net9.0\fib.AssemblyInfo.cs
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\obj\Debug\net9.0\fib.csproj.CoreCompileInputs.cache
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\obj\Debug\net9.0\fib.csproj.Up2Date
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\obj\Debug\net9.0\fib.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\obj\Debug\net9.0\refint\fib.dll
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\obj\Debug\net9.0\fib.pdb
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\obj\Debug\net9.0\fib.genruntimeconfig.cache
+C:\Users\ME\Desktop\בלי תכנות\פרקטיקוד\CLI in .NET\Try\Try\obj\Debug\net9.0\ref\fib.dll
