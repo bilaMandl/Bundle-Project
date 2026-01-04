@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t8aA02fczFw=",
+  "dgSpecHash": "2cuNnkmRwTE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ME\\Desktop\\בלי תכנות\\פרקטיקוד\\CLI in .NET\\Try\\Try\\fib.csproj",
+  "projectFilePath": "C:\\Users\\ME\\Downloads\\Bundle-Project\\Try\\fib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ME\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
   ],
